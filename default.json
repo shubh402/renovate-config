@@ -13,17 +13,6 @@
 	"labels": [
 		"dependencies"
 	],
-	"major": {
-		"stabilityDays": 14
-	},
-	"minor": {
-		"stabilityDays": 7
-	},
-	"patch": {
-		"groupName": "dependencies (patch)",
-		"groupSlug": "patch",
-		"stabilityDays": 3
-	},
 	"semanticCommits": true,
 	"platformAutomerge": true,
 	"timezone": "Asia/Kolkata",
